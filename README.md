@@ -46,8 +46,7 @@ docker run -p 8000:8000 fashion-mnist-api
 
 ### Model Setup
 The model is not stored in this repo due to file size.
-Train it yourself using the notebook in `/notebook` or 
-download the SavedModel from [Google Drive link].
+Train it yourself using the notebook in `/model_training`
 
 ### Test the API
 ```bash
